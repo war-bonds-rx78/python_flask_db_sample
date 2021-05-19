@@ -1,0 +1,14 @@
+2021-05-19 01:31:07,146 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:31:07,146 - [INFO] - __main__  - before_request - INFO - /v1/hoge/001
+2021-05-19 01:31:12,238 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:31:12,238 - [INFO] - __main__  - before_request - INFO - /v1/hoge/001
+2021-05-19 01:44:26,730 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:44:26,730 - [INFO] - __main__  - before_request - INFO - /v1/hoge/001
+2021-05-19 01:44:31,731 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:44:31,731 - [INFO] - __main__  - before_request - INFO - /v1/hoge/
+2021-05-19 01:44:36,482 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:44:36,482 - [INFO] - __main__  - before_request - INFO - /v1/hoge/001
+2021-05-19 01:44:48,243 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:44:48,243 - [INFO] - __main__  - before_request - INFO - /v1/encode_jwt/
+2021-05-19 01:44:52,172 - [INFO] - __main__  - before_request - INFO - フィルタ
+2021-05-19 01:44:52,172 - [INFO] - __main__  - before_request - INFO - /v1/hoge/001
