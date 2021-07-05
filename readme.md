@@ -39,3 +39,9 @@
 - requests
 - Flask-JWT-Extended
 - python-json-logger
+
+## TODO
+
+- DB 処理を綺麗にする
+- マニュアル方式
+- テストケース作成
