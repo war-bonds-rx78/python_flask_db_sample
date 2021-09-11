@@ -18,6 +18,9 @@ SQLALCHEMY_DATABASE_URI = DATABASE_URI
 SQLALCHEMY_TRACK_MODIFICATIONS = True
 SQLALCHEMY_ECHO = True
 SQLALCHEMY_ENGINE_OPTIONS = {
-    'pool_size': 30,
+    "poolclass": QueuePool,
+    'pool_size': 5,
+    'max_overflow': 15,
+    'pool_recycle': 120,
     'pool_pre_ping': True
 }
